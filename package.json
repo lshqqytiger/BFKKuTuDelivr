@@ -1,0 +1,14 @@
+{
+    "name": "BFKKuTuDelivr",
+    "version": "1.0.0",
+    "description": "CDN",
+    "scripts": {
+        "test": "echo \"Error: testing unsupported\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lshqqytiger/BFKKuTuDelivr"
+    },
+    "author": "lshqqytiger",
+    "license": "AGPLv3"
+}
