@@ -29,7 +29,7 @@ button{
 }
 #with-google span{ display: block; }
 .bfkkutu{
-	background: url('https://cdn.jsdelivr.net/npm/bfkkutudelivr@'+L('cdn_version')+'/img/kkutu/short_logo.png');
+	background: url('https://cdn.jsdelivr.net/npm/bfkkutudelivr@latest/img/kkutu/short_logo.png');
 }
 .login-with{
 	padding-top: 30px;

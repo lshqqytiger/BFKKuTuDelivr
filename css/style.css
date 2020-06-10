@@ -18,7 +18,7 @@
 
 @font-face {
 	font-family: 'NBGothic';
-	src: url('https://cdn.jsdelivr.net/npm/bfkkutudelivr@'+L('cdn_version')+'/media/NanumBarunGothicLight.woff') format('woff');
+	src: url('https://cdn.jsdelivr.net/npm/bfkkutudelivr@latest/media/NanumBarunGothicLight.woff') format('woff');
 }
 
 body{
