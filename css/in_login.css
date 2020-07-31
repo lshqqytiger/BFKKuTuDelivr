@@ -28,6 +28,9 @@ button{
 	box-shadow: 0px 2px 2px #141414;
 }
 #with-google span{ display: block; }
+#daldalso {
+	background: url('https://cdn.jsdelivr.net/npm/bfkkutudelivr@latest/img/auth/daldalso.png')
+}
 .bfkkutu{
 	background: url('https://cdn.jsdelivr.net/npm/bfkkutudelivr@latest/img/kkutu/short_logo.png');
 }
