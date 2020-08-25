@@ -1,6 +1,6 @@
 {
     "name": "bfkkutudelivr",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "CDN",
     "scripts": {
         "test": "echo \"Error: testing unsupported\" && exit 1"
